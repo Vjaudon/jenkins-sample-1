@@ -8,6 +8,12 @@
   <name>SampleProject</name>
   <url>http://maven.apache.org</url>
   
+<scm>
+  <connection>scm:git:https://github.com/Vjaudon/jenkins-sample-1.git</connection>
+  <url>https://github.com/Vjaudon/jenkins-sample-1</url>
+  <developerConnection>scm:git:https://github.com/Vjaudon/jenkins-sample-1.git</developerConnection>
+</scm> 
+  
 <repositories>
     <repository>
         <id>maven-group</id>
